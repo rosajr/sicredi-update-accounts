@@ -39,6 +39,6 @@ $ mvn package
 $ java -jar target/sicredi-update-accounts-0.0.1-SNAPSHOT.jar src/main/resources/csvfiles/test.csv
 ```
 
-###Seeing the results
+### Seeing the results
 
 The result of process (result.csv) will be available at the same directory of the original file (in this case src/main/resources/csvfiles/). 
